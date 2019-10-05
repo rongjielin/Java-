@@ -12,3 +12,6 @@ public class Getif {
 	}
 
 }
+
+Return result:
+变量x大于变量y
